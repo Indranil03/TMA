@@ -1,0 +1,9 @@
+com\tma\entities\dao\MenuDAO.class
+com\tma\entities\daoImpl\MotherMenuRepository.class
+com\tma\Application.class
+com\tma\db\model\Mother.class
+com\tma\entities\dao\MotherDAO.class
+com\tma\controllers\MotherController.class
+com\tma\service\MotherService.class
+com\tma\db\model\MotherMenu.class
+com\tma\entities\daoImpl\MotherDAOImpl.class
