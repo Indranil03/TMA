@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: data-access
 Implementation-Version: 1.5.3.RELEASE
-Built-By: Indranil
+Built-By: indranil
 Implementation-Vendor-Id: com.api
 Build-Jdk: 1.8.0_181
 Implementation-URL: http://projects.spring.io/spring-boot/data-access/
